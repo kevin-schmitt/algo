@@ -1,0 +1,2 @@
+includes:
+	- vendor/phpstan/phpstan-beberlei-assert/extension.neon
